@@ -25,7 +25,7 @@ Organization (e.g. LCA Athletics)
 | **Admin** | Full system administration, team creation, user management, billing, and game deletion. | Athletic Director, Head of Athletics. |
 | **Coach** | Team roster editing, game scheduling, lineup management, and analytics viewing. | Head Coaches, Assistant Coaches. |
 | **Scorekeeper** | Live stat tracking, fast keyboard operator access, substitution controls, and play undo. | Student statisticians, official table scorekeepers. |
-| **Viewer** | Read-only access to live scoreboard feeds and NCAA digital scorebooks. | Fans, parents, live stream operators (no login required for public game codes). |
+| **Viewer** | Read-only access to live scoreboard feeds and digital scorebooks. | Fans, parents, live stream operators (no login required for public game codes). |
 
 ---
 

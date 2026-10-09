@@ -49,5 +49,5 @@ Once the operator HUD loads:
 
 Every game generates a unique 6-character access code (e.g. `EAG101`):
 * **Live Scoreboard**: `https://app.prokeeper.com/live/EAG101`
-* **NCAA Scorebook**: `https://app.prokeeper.com/scorebook/EAG101`
-* **Official PDF Export**: `https://app.prokeeper.com/export/ncaa/EAG101.pdf`
+* **Official Scorebook**: `https://app.prokeeper.com/scorebook/EAG101`
+* **Official PDF Export**: `https://app.prokeeper.com/export/scorebook/EAG101.pdf`

@@ -1,6 +1,6 @@
 # Volleyball Stat Definitions
 
-ProKeeper implements standard collegiate and high school volleyball statistics as established by NCAA and AVCA guidelines.
+ProKeeper implements standard collegiate and high school volleyball statistics as established by standard AVCA and athletic association guidelines.
 
 ---
 

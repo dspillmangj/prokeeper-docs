@@ -1,6 +1,6 @@
 # Basketball Stat Definitions & Scoring Rules
 
-ProKeeper strictly follows NCAA and NFHS statistical manual guidelines for calculating official box scores and player metrics.
+ProKeeper strictly follows collegiate and NFHS statistical manual guidelines for calculating official box scores and player metrics.
 
 ---
 

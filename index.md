@@ -16,7 +16,7 @@ Welcome to the official ProKeeper documentation. ProKeeper is a high-performance
 * [Keyboard Shortcuts Reference](file:///docs.prokeeper.com/basketball/keyboard-shortcuts.md) - Complete key mapping table for all 19 tracked actions and game controls.
 * [Stat Definitions & Scoring Rules](file:///docs.prokeeper.com/basketball/stat-definitions.md) - Standardized statistical definitions for FGA, 3PA, FTA, assists, swat vs block, turnovers, and fouls.
 * [Substitutions & Playing Time](file:///docs.prokeeper.com/basketball/substitutions-and-lineups.md) - 5-player on-court tracking, substitution shortcuts, and automated playing time calculation.
-* [Official NCAA Scorebook Guide](file:///docs.prokeeper.com/basketball/ncaa-scorebook-guide.md) - Running score slash matrix, foul grids, timeouts, and exportable official sheets.
+* [Official Scorebook Guide](file:///docs.prokeeper.com/basketball/scorebook-guide.md) - Running score slash matrix, foul grids, timeouts, and exportable official sheets.
 
 ### 3. Volleyball Stat Engine
 * [Volleyball Stat Definitions](file:///docs.prokeeper.com/volleyball/stat-definitions.md) - Kills, attack errors, total attempts, hitting percentage, aces, digs, solo vs assist blocks.

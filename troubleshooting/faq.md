@@ -14,4 +14,4 @@ Yes. Direct anyone to `https://app.prokeeper.com/live/{access_code}`. Public vie
 ProKeeper automatically tracks player playing time based on on-court status and the running game clock. When a player subs in or out, elapsed seconds are automatically credited.
 
 ### Can I print the scorebook for tournament records?
-Yes. Visit `/scorebook/{access_code}` and click **Print / Save PDF** or use the direct download at `/export/ncaa/{access_code}.pdf`.
+Yes. Visit `/scorebook/{access_code}` and click **Print / Save PDF** or use the direct download at `/export/scorebook/{access_code}.pdf`.

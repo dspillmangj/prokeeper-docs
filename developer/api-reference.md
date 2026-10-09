@@ -41,8 +41,8 @@ GET /api/v1/games/{access_code}/events
 
 ---
 
-## 3. Export NCAA Scorebook PDF
+## 3. Export Official Scorebook PDF
 ```http
-GET /export/ncaa/{access_code}.pdf
+GET /export/scorebook/{access_code}.pdf
 ```
-Returns a binary application/pdf stream formatted to official NCAA 8.5x11 scorebook specifications.
+Returns a binary application/pdf stream formatted to official 8.5x11 scorebook specifications.

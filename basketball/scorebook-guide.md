@@ -1,6 +1,6 @@
-# Official NCAA Scorebook Guide
+# Official ProKeeper Scorebook Guide
 
-ProKeeper provides an authentic, high-fidelity digital reproduction of the official NCAA and NFHS Basketball Scorebook.
+ProKeeper provides an authentic, high-fidelity digital reproduction of the official regulation basketball scorebook.
 
 ---
 
@@ -28,4 +28,4 @@ Every roster athlete is tracked with:
 The scorebook layout is optimized with dedicated print stylesheets:
 * Access via `/scorebook/{game_code}`.
 * Click **Print / Save PDF** to generate an official 8.5x11 landscape scorebook document ready for referee signature and archival.
-* Download a server-rendered PDF via `/export/ncaa/{game_code}.pdf`.
+* Download a server-rendered PDF via `/export/scorebook/{game_code}.pdf`.
