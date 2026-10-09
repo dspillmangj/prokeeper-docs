@@ -1,0 +1,170 @@
+[
+  {
+    "type": "file",
+    "name": "index.md",
+    "title": "ProKeeper Documentation Hub",
+    "path": "index.md"
+  },
+  {
+    "type": "category",
+    "name": "getting-started",
+    "title": "Getting Started",
+    "path": "getting-started",
+    "children": [
+      {
+        "type": "file",
+        "name": "accounts-and-organizations.md",
+        "title": "Accounts & Organizations",
+        "path": "getting-started/accounts-and-organizations.md"
+      },
+      {
+        "type": "file",
+        "name": "quickstart.md",
+        "title": "Quickstart Guide",
+        "path": "getting-started/quickstart.md"
+      },
+      {
+        "type": "file",
+        "name": "team-and-roster-management.md",
+        "title": "Team & Roster Management",
+        "path": "getting-started/team-and-roster-management.md"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "name": "basketball",
+    "title": "Basketball",
+    "path": "basketball",
+    "children": [
+      {
+        "type": "file",
+        "name": "fast-entry-syntax.md",
+        "title": "Basketball Fast Entry Syntax",
+        "path": "basketball/fast-entry-syntax.md"
+      },
+      {
+        "type": "file",
+        "name": "keyboard-shortcuts.md",
+        "title": "Basketball Keyboard Shortcuts Reference",
+        "path": "basketball/keyboard-shortcuts.md"
+      },
+      {
+        "type": "file",
+        "name": "stat-definitions.md",
+        "title": "Basketball Stat Definitions & Scoring Rules",
+        "path": "basketball/stat-definitions.md"
+      },
+      {
+        "type": "file",
+        "name": "scorebook-guide.md",
+        "title": "Official ProKeeper Scorebook Guide",
+        "path": "basketball/scorebook-guide.md"
+      },
+      {
+        "type": "file",
+        "name": "substitutions-and-lineups.md",
+        "title": "Substitutions & Automated Playing Time",
+        "path": "basketball/substitutions-and-lineups.md"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "name": "volleyball",
+    "title": "Volleyball",
+    "path": "volleyball",
+    "children": [
+      {
+        "type": "file",
+        "name": "libero-and-substitution-rules.md",
+        "title": "Libero & Substitution Rules",
+        "path": "volleyball/libero-and-substitution-rules.md"
+      },
+      {
+        "type": "file",
+        "name": "keyboard-shortcuts.md",
+        "title": "Volleyball Keyboard Shortcuts & Fast Entry",
+        "path": "volleyball/keyboard-shortcuts.md"
+      },
+      {
+        "type": "file",
+        "name": "rotation-and-lineup-tracker.md",
+        "title": "Volleyball Rotation & Lineup Tracker",
+        "path": "volleyball/rotation-and-lineup-tracker.md"
+      },
+      {
+        "type": "file",
+        "name": "stat-definitions.md",
+        "title": "Volleyball Stat Definitions",
+        "path": "volleyball/stat-definitions.md"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "name": "live-sharing",
+    "title": "Live Sharing",
+    "path": "live-sharing",
+    "children": [
+      {
+        "type": "file",
+        "name": "embeds-and-gym-displays.md",
+        "title": "Gym Displays, Arena Boards & Stream Embeds",
+        "path": "live-sharing/embeds-and-gym-displays.md"
+      },
+      {
+        "type": "file",
+        "name": "scoreboard-display.md",
+        "title": "Live Scoreboard Display",
+        "path": "live-sharing/scoreboard-display.md"
+      },
+      {
+        "type": "file",
+        "name": "qr-codes-and-access-keys.md",
+        "title": "QR Codes & Game Access Keys",
+        "path": "live-sharing/qr-codes-and-access-keys.md"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "name": "developer",
+    "title": "Developer",
+    "path": "developer",
+    "children": [
+      {
+        "type": "file",
+        "name": "api-reference.md",
+        "title": "API Reference",
+        "path": "developer/api-reference.md"
+      },
+      {
+        "type": "file",
+        "name": "database-schema.md",
+        "title": "Database Schema & Entity Relationships",
+        "path": "developer/database-schema.md"
+      },
+      {
+        "type": "file",
+        "name": "deployment-and-environments.md",
+        "title": "Deployment & Multi-Environment Configuration",
+        "path": "developer/deployment-and-environments.md"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "name": "troubleshooting",
+    "title": "Troubleshooting",
+    "path": "troubleshooting",
+    "children": [
+      {
+        "type": "file",
+        "name": "faq.md",
+        "title": "Frequently Asked Questions (FAQ)",
+        "path": "troubleshooting/faq.md"
+      }
+    ]
+  }
+]

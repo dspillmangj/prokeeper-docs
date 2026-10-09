@@ -8,11 +8,11 @@ ProKeeper is designed for multi-domain routing and seamless continuous deploymen
 
 | Domain | Target Deployment / Directory | Description |
 | :--- | :--- | :--- |
-| `app.prokeeper.com` | `app.prokeeper.com/` | Core Laravel application, Operator HUD, Auth, and APIs |
-| `prokeeper.com` | `prokeeper.com/` | Standalone high-performance marketing site |
-| `docs.prokeeper.com` | `docs.prokeeper.com/` | Documentation hub |
-| `dev.prokeeper.com` | Staging/Dev Laravel build | Active development sandbox |
-| `staging.prokeeper.com` | Staging Laravel build | Pre-release QA environment |
+| `app.prokeeper.taligent.dev` | `app.prokeeper.com/` | Core ProKeeper application, Operator HUD, Auth, and APIs |
+| `prokeeper.taligent.dev` | `prokeeper.com/` | Standalone high-performance marketing site |
+| `docs.prokeeper.taligent.dev` | `docs.prokeeper.com/` | Documentation hub |
+| `dev.prokeeper.taligent.dev` | Staging/Dev ProKeeper build | Active development sandbox |
+| `staging.prokeeper.taligent.dev` | Staging ProKeeper build | Pre-release QA environment |
 
 ---
 

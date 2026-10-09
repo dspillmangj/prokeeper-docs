@@ -23,7 +23,7 @@ Every roster athlete is tracked with:
 
 ---
 
-## 3. PDF & Print Compliance
+## 3. PDF & Print Export
 
 The scorebook layout is optimized with dedicated print stylesheets:
 * Access via `/scorebook/{game_code}`.

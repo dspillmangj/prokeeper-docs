@@ -32,7 +32,7 @@ Organization (e.g. LCA Athletics)
 ## Staff Invitations
 
 Administrators can add scorekeepers and coaches to their organization:
-1. Log into `https://app.prokeeper.com`.
+1. Log into the [App](https://app.prokeeper.taligent.dev).
 2. Go to **Settings > Team Staff**.
 3. Enter the staff member's email address and assign their role.
 4. An activation link will be sent with immediate access to designated rosters.

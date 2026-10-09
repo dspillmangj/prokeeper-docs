@@ -7,32 +7,32 @@ Welcome to the official ProKeeper documentation. ProKeeper is a high-performance
 ## Documentation Sections
 
 ### 1. Getting Started
-* [Quickstart Guide](file:///docs.prokeeper.com/getting-started/quickstart.md) - Set up your first organization, team, and game in under 5 minutes.
-* [Accounts & Organizations](file:///docs.prokeeper.com/getting-started/accounts-and-organizations.md) - Role-based permissions, staff invitations, and athletic department management.
-* [Team & Roster Management](file:///docs.prokeeper.com/getting-started/team-and-roster-management.md) - Managing player rosters, jersey numbers, positions, and home/away uniforms.
+* [Quickstart Guide](getting-started/quickstart.md) - Set up your first organization, team, and game in under 5 minutes.
+* [Accounts & Organizations](getting-started/accounts-and-organizations.md) - Role-based permissions, staff invitations, and athletic department management.
+* [Team & Roster Management](getting-started/team-and-roster-management.md) - Managing player rosters, jersey numbers, positions, and home/away uniforms.
 
 ### 2. Basketball Stat Engine
-* [Fast Entry Syntax](file:///docs.prokeeper.com/basketball/fast-entry-syntax.md) - The `<Jersey><Team><Action>` keyboard language for rapid stat recording.
-* [Keyboard Shortcuts Reference](file:///docs.prokeeper.com/basketball/keyboard-shortcuts.md) - Complete key mapping table for all 19 tracked actions and game controls.
-* [Stat Definitions & Scoring Rules](file:///docs.prokeeper.com/basketball/stat-definitions.md) - Standardized statistical definitions for FGA, 3PA, FTA, assists, swat vs block, turnovers, and fouls.
-* [Substitutions & Playing Time](file:///docs.prokeeper.com/basketball/substitutions-and-lineups.md) - 5-player on-court tracking, substitution shortcuts, and automated playing time calculation.
-* [Official Scorebook Guide](file:///docs.prokeeper.com/basketball/scorebook-guide.md) - Running score slash matrix, foul grids, timeouts, and exportable official sheets.
+* [Fast Entry Syntax](basketball/fast-entry-syntax.md) - The `<Jersey><Team><Action>` keyboard language for rapid stat recording.
+* [Keyboard Shortcuts Reference](basketball/keyboard-shortcuts.md) - Complete key mapping table for all 19 tracked actions and game controls.
+* [Stat Definitions & Scoring Rules](basketball/stat-definitions.md) - Standardized statistical definitions for FGA, 3PA, FTA, assists, swat vs block, turnovers, and fouls.
+* [Substitutions & Playing Time](basketball/substitutions-and-lineups.md) - 5-player on-court tracking, substitution shortcuts, and automated playing time calculation.
+* [Official Scorebook Guide](basketball/scorebook-guide.md) - Running score slash matrix, foul grids, timeouts, and exportable official sheets.
 
 ### 3. Volleyball Stat Engine
-* [Volleyball Stat Definitions](file:///docs.prokeeper.com/volleyball/stat-definitions.md) - Kills, attack errors, total attempts, hitting percentage, aces, digs, solo vs assist blocks.
-* [Keyboard Shortcuts & Entry](file:///docs.prokeeper.com/volleyball/keyboard-shortcuts.md) - Fast key entry for live rally recording.
-* [Rotation & Lineup Management](file:///docs.prokeeper.com/volleyball/rotation-and-lineup-tracker.md) - Visual 6-position court tracker, automatic side-out rotation, and server identification.
-* [Libero & Substitution Rules](file:///docs.prokeeper.com/volleyball/libero-and-substitution-rules.md) - Libero replacements, serving tracking, and set substitution limits.
+* [Volleyball Stat Definitions](volleyball/stat-definitions.md) - Kills, attack errors, total attempts, hitting percentage, aces, digs, solo vs assist blocks.
+* [Keyboard Shortcuts & Entry](volleyball/keyboard-shortcuts.md) - Fast key entry for live rally recording.
+* [Rotation & Lineup Management](volleyball/rotation-and-lineup-tracker.md) - Visual 6-position court tracker, automatic side-out rotation, and server identification.
+* [Libero & Substitution Rules](volleyball/libero-and-substitution-rules.md) - Libero replacements, serving tracking, and set substitution limits.
 
 ### 4. Public Live Experiences & Displays
-* [Live Scoreboard Display](file:///docs.prokeeper.com/live-sharing/scoreboard-display.md) - Broadcast-grade real-time scoreboards for fans and live streams.
-* [Gym Video Boards & Embeds](file:///docs.prokeeper.com/live-sharing/embeds-and-gym-displays.md) - Fullscreen arena modes, OBS browser source integration, and iframe embeds.
-* [QR Codes & Game Access Codes](file:///docs.prokeeper.com/live-sharing/qr-codes-and-access-keys.md) - Generating instant fan access codes without requiring account login.
+* [Live Scoreboard Display](live-sharing/scoreboard-display.md) - Broadcast-grade real-time scoreboards for fans and live streams.
+* [Gym Video Boards & Embeds](live-sharing/embeds-and-gym-displays.md) - Fullscreen arena modes, OBS browser source integration, and iframe embeds.
+* [QR Codes & Game Access Codes](live-sharing/qr-codes-and-access-keys.md) - Generating instant fan access codes without requiring account login.
 
 ### 5. Developer & Infrastructure
-* [API Reference](file:///docs.prokeeper.com/developer/api-reference.md) - REST endpoints for game data, live play-by-play, and box scores.
-* [Database Schema](file:///docs.prokeeper.com/developer/database-schema.md) - Entity relationship diagrams, table structures, and event models.
-* [Deployment & Environments](file:///docs.prokeeper.com/developer/deployment-and-environments.md) - Configuring `app.prokeeper.com`, `docs.prokeeper.com`, `prokeeper.com`, `dev`, and `staging`.
+* [API Reference](developer/api-reference.md) - REST endpoints for game data, live play-by-play, and box scores.
+* [Database Schema](developer/database-schema.md) - Entity relationship diagrams, table structures, and event models.
+* [Deployment & Environments](developer/deployment-and-environments.md) - Configuring `app.prokeeper.taligent.dev`, `docs.prokeeper.taligent.dev`, `prokeeper.taligent.dev`, `dev`, and `staging`.
 
 ### 6. Support & Operations
-* [Frequently Asked Questions (FAQ)](file:///docs.prokeeper.com/troubleshooting/faq.md) - Common operating questions and edge case resolutions.
+* [Frequently Asked Questions (FAQ)](troubleshooting/faq.md) - Common operating questions and edge case resolutions.

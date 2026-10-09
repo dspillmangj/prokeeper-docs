@@ -8,7 +8,7 @@ Common questions and troubleshooting steps for ProKeeper users and operators.
 Press the **Undo** button or the undo hotkey. ProKeeper will remove the play and immediately recalculate scores, fouls, and player box scores with complete mathematical integrity.
 
 ### Can parents and fans watch without an account?
-Yes. Direct anyone to `https://app.prokeeper.com/live/{access_code}`. Public viewers do not need to register, install an app, or log in.
+Yes. Direct anyone to `https://app.prokeeper.taligent.dev/live/{access_code}`. Public viewers do not need to register, install an app, or log in.
 
 ### How are player minutes calculated?
 ProKeeper automatically tracks player playing time based on on-court status and the running game clock. When a player subs in or out, elapsed seconds are automatically credited.

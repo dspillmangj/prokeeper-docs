@@ -1,0 +1,20 @@
+{
+  "name": "docs.prokeeper.com",
+  "version": "1.0.0",
+  "description": "ProKeeper Dynamic Documentation Engine for GitHub Pages",
+  "scripts": {
+    "generate": "node generate-structure.js",
+    "build": "node generate-structure.js",
+    "dev": "npx -y serve . -p 8080",
+    "start": "npx -y serve . -p 8080"
+  },
+  "keywords": [
+    "prokeeper",
+    "documentation",
+    "spa",
+    "markdown",
+    "github-pages"
+  ],
+  "author": "Taligent Labs",
+  "license": "UNLICENSED"
+}

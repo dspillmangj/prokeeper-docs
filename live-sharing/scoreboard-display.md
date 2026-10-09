@@ -6,8 +6,8 @@ ProKeeper provides high-definition, auto-synchronizing live scoreboard displays 
 
 ## Accessing the Live Display
 
-* **Public URL**: `https://app.prokeeper.com/live/{access_code}`
-* **Custom Slug URL**: `https://app.prokeeper.com/live/{team-slug-vs-team-slug}`
+* **Public URL**: `https://app.prokeeper.taligent.dev/live/{access_code}`
+* **Custom Slug URL**: `https://app.prokeeper.taligent.dev/live/{team-slug-vs-team-slug}`
 * No account creation or login required for public spectators.
 
 ---
