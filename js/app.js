@@ -12,7 +12,7 @@
     appName: 'ProKeeper Docs',
     githubRepo: 'taligent/prokeeper', // default GitHub repository
     githubBranch: 'main',
-    docsFolder: 'docs.prokeeper.com', // directory within repo
+    docsFolder: 'docs.prokeeper.org', // directory within repo
     defaultDoc: 'index.md',
     structurePath: 'structure.json',
   };

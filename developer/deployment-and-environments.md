@@ -8,9 +8,9 @@ ProKeeper is designed for multi-domain routing and seamless continuous deploymen
 
 | Domain | Target Deployment / Directory | Description |
 | :--- | :--- | :--- |
-| `app.prokeeper.org` | `app.prokeeper.com/` | Core ProKeeper application, Operator HUD, Auth, and APIs |
-| `prokeeper.org` | `prokeeper.com/` | Standalone high-performance marketing site |
-| `docs.prokeeper.org` | `docs.prokeeper.com/` | Documentation hub |
+| `app.prokeeper.org` | `app.prokeeper.org/` | Core ProKeeper application, Operator HUD, Auth, and APIs |
+| `prokeeper.org` | `prokeeper.org/` | Standalone high-performance marketing site |
+| `docs.prokeeper.org` | `docs.prokeeper.org/` | Documentation hub |
 | `dev.prokeeper.org` | Staging/Dev ProKeeper build | Active development sandbox |
 | `staging.prokeeper.org` | Staging ProKeeper build | Pre-release QA environment |
 
@@ -27,7 +27,7 @@ ProKeeper is designed for multi-domain routing and seamless continuous deploymen
 
 ## Production Build Steps
 ```bash
-cd app.prokeeper.com
+cd app.prokeeper.org
 composer install --no-dev --optimize-autoloader
 npm ci && npm run build
 php artisan config:cache
