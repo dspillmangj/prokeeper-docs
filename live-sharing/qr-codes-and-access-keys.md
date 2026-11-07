@@ -8,8 +8,8 @@ Distribute instant live stats to fans, journalists, and college recruiters in th
 
 Every game session is assigned a collision-resistant 6-character access key (e.g. `EAG101`, `VB202`).
 
-* Fans can navigate to the [App](https://app.prokeeper.taligent.dev) and type the 6-character code into the fast viewer box.
-* Direct URL: `https://app.prokeeper.taligent.dev/live/{access_code}`.
+* Fans can navigate to the [App](https://app.prokeeper.org) and type the 6-character code into the fast viewer box.
+* Direct URL: `https://app.prokeeper.org/live/{access_code}`.
 
 ---
 

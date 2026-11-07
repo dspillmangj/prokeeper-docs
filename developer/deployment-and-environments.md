@@ -8,11 +8,11 @@ ProKeeper is designed for multi-domain routing and seamless continuous deploymen
 
 | Domain | Target Deployment / Directory | Description |
 | :--- | :--- | :--- |
-| `app.prokeeper.taligent.dev` | `app.prokeeper.com/` | Core ProKeeper application, Operator HUD, Auth, and APIs |
-| `prokeeper.taligent.dev` | `prokeeper.com/` | Standalone high-performance marketing site |
-| `docs.prokeeper.taligent.dev` | `docs.prokeeper.com/` | Documentation hub |
-| `dev.prokeeper.taligent.dev` | Staging/Dev ProKeeper build | Active development sandbox |
-| `staging.prokeeper.taligent.dev` | Staging ProKeeper build | Pre-release QA environment |
+| `app.prokeeper.org` | `app.prokeeper.com/` | Core ProKeeper application, Operator HUD, Auth, and APIs |
+| `prokeeper.org` | `prokeeper.com/` | Standalone high-performance marketing site |
+| `docs.prokeeper.org` | `docs.prokeeper.com/` | Documentation hub |
+| `dev.prokeeper.org` | Staging/Dev ProKeeper build | Active development sandbox |
+| `staging.prokeeper.org` | Staging ProKeeper build | Pre-release QA environment |
 
 ---
 

@@ -32,7 +32,7 @@ Welcome to the official ProKeeper documentation. ProKeeper is a high-performance
 ### 5. Developer & Infrastructure
 * [API Reference](developer/api-reference.md) - REST endpoints for game data, live play-by-play, and box scores.
 * [Database Schema](developer/database-schema.md) - Entity relationship diagrams, table structures, and event models.
-* [Deployment & Environments](developer/deployment-and-environments.md) - Configuring `app.prokeeper.taligent.dev`, `docs.prokeeper.taligent.dev`, `prokeeper.taligent.dev`, `dev`, and `staging`.
+* [Deployment & Environments](developer/deployment-and-environments.md) - Configuring `app.prokeeper.org`, `docs.prokeeper.org`, `prokeeper.org`, `dev`, and `staging`.
 
 ### 6. Support & Operations
 * [Frequently Asked Questions (FAQ)](troubleshooting/faq.md) - Common operating questions and edge case resolutions.

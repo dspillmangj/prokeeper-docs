@@ -6,7 +6,7 @@ Get up and running with ProKeeper in under 5 minutes. This guide walks you throu
 
 ## 1. Create an Organization Account
 
-1. Navigate to the [Registration Page](https://app.prokeeper.taligent.dev/register) on the [App](https://app.prokeeper.taligent.dev).
+1. Navigate to the [Registration Page](https://app.prokeeper.org/register) on the [App](https://app.prokeeper.org).
 2. Enter your **School or Organization Name** (e.g., *Lighthouse Christian Academy*).
 3. Enter your administrator name, email address, and secure password.
 4. Click **Register Organization** to automatically provision your athletic portal and enter the Command Center.
@@ -48,6 +48,6 @@ Once the operator HUD loads:
 ## 5. Share with Fans & Scorers
 
 Every game generates a unique 6-character access code (e.g. `EAG101`):
-* **Live Scoreboard**: [Live Spectator Experience](https://app.prokeeper.taligent.dev/live/EAG101)
-* **Official Scorebook**: [ProKeeper Scorebook](https://app.prokeeper.taligent.dev/scorebook/EAG101)
-* **Official PDF Export**: [Download Scorebook PDF](https://app.prokeeper.taligent.dev/export/scorebook/EAG101.pdf)
+* **Live Scoreboard**: [Live Spectator Experience](https://app.prokeeper.org/live/EAG101)
+* **Official Scorebook**: [ProKeeper Scorebook](https://app.prokeeper.org/scorebook/EAG101)
+* **Official PDF Export**: [Download Scorebook PDF](https://app.prokeeper.org/export/scorebook/EAG101.pdf)
