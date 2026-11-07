@@ -10,9 +10,9 @@
   // Configuration
   const CONFIG = {
     appName: 'ProKeeper Docs',
-    githubRepo: 'taligent/prokeeper', // default GitHub repository
+    githubRepo: 'dspillmangj/prokeeper-docs', // default GitHub repository
     githubBranch: 'main',
-    docsFolder: 'docs.prokeeper.org', // directory within repo
+    docsFolder: '', // directory within repo (root)
     defaultDoc: 'index.md',
     structurePath: 'structure.json',
   };
@@ -628,7 +628,8 @@
     }
 
     if (dom.editGithubBtn) {
-      const githubEditUrl = `https://github.com/${CONFIG.githubRepo}/edit/${CONFIG.githubBranch}/${CONFIG.docsFolder}/${docPath}`;
+      const prefix = CONFIG.docsFolder ? `${CONFIG.docsFolder}/` : '';
+      const githubEditUrl = `https://github.com/${CONFIG.githubRepo}/edit/${CONFIG.githubBranch}/${prefix}${docPath}`;
       dom.editGithubBtn.setAttribute('href', githubEditUrl);
     }
   }
