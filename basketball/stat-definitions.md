@@ -45,3 +45,4 @@ ProKeeper strictly follows collegiate and NFHS statistical manual guidelines for
 * **Personal Foul (PF)**: Illegal contact against an opponent. 5 personal fouls result in player disqualification (DQ).
 * **Offensive Foul (OF)**: Player-control foul or illegal screen. Does not award free throws to the opponent but turns over possession.
 * **Technical Foul (TF)**: Unsportsmanlike conduct by a player or bench personnel.
+* **Drawn Foul (DF / H)**: Foul drawn against an opposing player (forced foul), crediting the drawing player without incrementing personal fouls or team foul count.
